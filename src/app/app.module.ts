@@ -1,5 +1,5 @@
 import { NgModule } from '@angular/core';
-import { FormsModule } from '@angular/forms';
+import { FormsModule } from '@angular/forms';// <-- NgModel lives here
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
